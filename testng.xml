@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Assessment_Doaa">
+    <test name="TasksRunner">
+        <classes>
+            <class name="createnewaccount.CreateNewAccountRunner"/>
+            <class name="addproducttocart.AddProductToCartRunner"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
